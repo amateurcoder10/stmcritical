@@ -4,5 +4,5 @@ An led is treated as the shared resource here.Two threads of equal priority try 
 
 This can be seen using Keil's event viewer and thread viewer
 
-<img src="https://github.com/amateurcoder10/stmcritical/blob/master/overview.png" width="100" height="50">
+<img src="https://github.com/amateurcoder10/stmcritical/blob/master/overview.png" width="500" height="250">
 

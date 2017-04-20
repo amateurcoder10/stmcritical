@@ -5,4 +5,4 @@ An led is treated as the shared resource here.Two threads of equal priority try 
 This can be seen using Keil's event viewer and thread viewer
 
 
-![Alt text](https://github.com/amateurcoder10/stmcritical/overview.png)
+![Alt text](https://github.com/amateurcoder10/stmcritical/blob/master/overview.png)
